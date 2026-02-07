@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Douglas Gockah, a product designer based in Ghana.   
-- 👀 I’m passionate about crafting delightful user experiences.
+- 👋 Hi, I’m Douglas Gockah, a UI/UX designer based in Ghana.   
+- 👀 I’m passionate about crafting functional user experiences.
 - 🌱 I’m currently diving into the world of front-end development, learning HTML, CSS, and JavaScript to bring my designs to life.
 
 <!---
